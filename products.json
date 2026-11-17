@@ -1,15 +1,4 @@
 {
  "tg": "Pidrope",
- "items": [
-  {
-   "id": 1794924156546,
-   "name": "OGGO KILLERША",
-   "price": 600,
-   "cat": "Жидкости",
-   "tag": "80",
-   "desc": "Разьеб бошки",
-   "stock": true,
-   "img": "img/1794924156546-1794924156692.jpg"
-  }
- ]
+ "items": []
 }
